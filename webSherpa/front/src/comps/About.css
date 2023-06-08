@@ -1,0 +1,45 @@
+.form-cont-cont {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    width: 100%;
+}
+
+.form-cont {
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.name {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 7px;
+}
+
+.slogan {
+    z-index: 1;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 438;
+    font-stretch: 95;
+    font-size: 2.5rem;
+}
+
+.use-sans {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 367;
+    font-stretch: 90;
+    font-size: 18px;
+}
