@@ -2,8 +2,8 @@ const AWS = require('aws-sdk');
 
 AWS.config.update({region : 'us-west-2'});
 
-aws_access_key_id       = 'AKIA3CAEVFNWEYTX5RVE'
-aws_secret_access_key   = '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'
+aws_access_key_id       = ''
+aws_secret_access_key   = ''
 
 
 //const sesSend = (name, email, com, radio) => {
